@@ -6,17 +6,20 @@ To Write a html webpage page to display your timetable.
 # ALGORITHM
 ### STEP 1
 create a simple table using table tag
+
 ### STEP 2
 Add header row using th tag
+
 ### STEP 3
 Add your timetable
+
 ### STEP 4
 Execute the program
 
 # CODE
-'''
-<!DOCTYPE html>
-<html lang="en">
+```
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>Slot Timetable</title>
 </head>
@@ -117,13 +120,13 @@ Execute the program
 </table>
 </body>
 </html>
-'''
+```
 
 # OUPUT
-![OUTPUT](http://sridharan.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR
-![HTMl VALIDATOR](http://sridharan.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTMl VALIDATOR](./valid.png)
 
 # RESULT
-the program for creating slot timetable is completed successfully
+The program for creating slot timetable is completed successfully
